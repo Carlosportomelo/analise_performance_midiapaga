@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Análise de Performance de Mídia Paga
 
 Este projeto contém scripts para análise de performance de mídia paga, integrando dados do Meta Ads e HubSpot.
@@ -94,3 +95,7 @@ python scripts/validar_investimentos.py
 2. Em seguida, processar HubSpot
 3. Validar consistência
 4. Atualizar fontes no Looker Studio
+=======
+# analise_performance_midiapaga
+Pipeline de Análise de Performance de Mídia Paga: Integra Meta Ads, Google Ads e HubSpot CRM. O sistema limpa dados, normaliza funil de vendas, atribui investimento por lead (prorrateio) e gera relatórios granulares e agregados (.xlsx) para análise de BI de RVO e Matrículas por Ciclo de Captação.
+>>>>>>> 61df75b6716e47cc3c36a71272a99f488e710b36
